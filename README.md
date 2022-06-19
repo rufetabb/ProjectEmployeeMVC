@@ -1,5 +1,4 @@
 ##Spring Boot MVC 
-___
 #Tools used
 * Spring Boot
 * Thymeleaf
