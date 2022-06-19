@@ -1,5 +1,5 @@
-## Spring Boot MVC 
-# Tools used
+# Spring Boot MVC 
+## Tools used
 * Spring Boot
 * Thymeleaf
 * Lombok
